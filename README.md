@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Abderrahman Elaammari You can call me Dahman.
+I'm Dahamn from Morocco, I do content on Design and Development,I Interested in UI/UX design👨🏻‍💻✨| learning to become a Full-Stack Developer💻| Math Student (SMI)👨🏻‍🎓.
 <!--
 **DahmanCode/DahmanCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
