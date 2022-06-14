@@ -2,4 +2,4 @@
 
 ### Hi there 👋 I'm Abderrahman Elaammari.
 
-You can call me Dahman, I'm from Morocco, I do content on Design and Development,I Interested in UI/UX design👨🏻‍💻✨| learning to become a Full-Stack Developer💻| Math Student (SMI)👨🏻‍🎓.
+You can call me Dahman, I'm from Morocco, I do content on Design and Development,I Interested in UI/UX design👨🏻‍💻✨| learning to become a Full-Stack Developer💻| Math and Information Student (SMI)👨🏻‍🎓.
