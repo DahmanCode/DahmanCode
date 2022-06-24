@@ -3,3 +3,13 @@
 ### Hi there 👋 I'm Abderrahman Elaammari.
 
 You can call me Dahman, I'm from Morocco, I do content on Design and Development,I Interested in UI/UX design👨🏻‍💻✨| learning to become a Full-Stack Developer💻| Math and Information Student (SMI)👨🏻‍🎓.
+
+## My skills
+<ul type="Square">
+  <li>🦀 Html.</li>
+  <li>🐳 CSS.</li>
+  <li>🐥 JavaScript.</li>
+  <li>☂️ Bootstrap.</li>
+  <li>🤳🏼 responsive web design.</li>
+  <li>💙 VS Code.</li>
+</ul>
