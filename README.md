@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Abderrahman Elaammari.
 
-Energetic front-end developer with 2+ years of experience, Still gaining experience and developing by building projects💻,I Interested in UI/UX design👨🏻‍💻 and problem-solving✨| Math and Information Student (SMI)👨🏻‍🎓.
+Energetic front-end developer with 3+ years of experience, Still gaining experience and developing by building projects💻,I Interested in UI/UX design👨🏻‍💻 and problem-solving✨| Math and Information Student (SMI)👨🏻‍🎓.
 
 ## My skills:
 <ul type="Square">
@@ -10,6 +10,8 @@ Energetic front-end developer with 2+ years of experience, Still gaining experie
   <li>🐳 CSS.</li>
   <li>🐥 JavaScript.</li>
   <li>☂️ Bootstrap.</li>
+  <li>🦉 Git & GitHub.</li>
+  <li>💎 React.</li>
   <li>🤳🏼 responsive web design.</li>
   <li>💙 VS Code.</li>
 </ul>
