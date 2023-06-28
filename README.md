@@ -2,6 +2,9 @@
 
 ### Hi there 👋 I'm Abderrahman Elaammari.
 
+#### Glad to see you here 
+<img src="https://komarev.com/ghpvc/?username=DahmanCode&label=Profile%20views&color=blueviolet&" alt="DahmanCode" />
+
 Energetic front-end developer with 3+ years of experience, Still gaining experience and developing by building projects💻,I Interested in UI/UX design👨🏻‍💻 and problem-solving✨| Math and Information Student (SMI)👨🏻‍🎓.
 
 ## My skills:
@@ -21,5 +24,7 @@ Energetic front-end developer with 3+ years of experience, Still gaining experie
 ![Dahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahmancode&show_icons=true&theme=tokyonight)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahmancode&theme=tokyonight)](https://github.com/dahmancode/github-readme-stats)
+
+## <b> Let's Connect..!</b><img src="https://github.com/elon-fask/Elon-Fask/blob/main/img/handshake.gif" width ="80">
 
 ## Wakatime Stats: <a href="https://wakatime.com/@6e455519-fb1d-46e4-92e0-0cba9fbdf97f"><img src="https://wakatime.com/badge/user/6e455519-fb1d-46e4-92e0-0cba9fbdf97f.svg" alt="Total time coded since Sep 26 2022" /></a>
