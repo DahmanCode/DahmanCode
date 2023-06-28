@@ -1,11 +1,16 @@
 ![ME](https://user-images.githubusercontent.com/94912743/173257118-557da417-8e85-4a6a-8c11-9fe01b0b2772.png)
 
+<img src="https://user-images.githubusercontent.com/94912743/235650260-d7b9bbe6-72f1-4f21-bd24-d04ab3d03f30.gif" width="200px" align="right">
+
 ### Hi there 👋 I'm Abderrahman Elaammari.
 
 #### Glad to see you here 
 <img src="https://komarev.com/ghpvc/?username=DahmanCode&label=Profile%20views&color=blueviolet&" alt="DahmanCode" />
 
-Energetic front-end developer with 3+ years of experience, Still gaining experience and developing by building projects💻,I Interested in UI/UX design👨🏻‍💻 and problem-solving✨| Math and Information Student (SMI)👨🏻‍🎓.
+# <img src = "https://github.com/elon-fask/Elon-Fask/blob/main/img/about_me.gif" width = 40px> **About me**
+<h2 align="center" style="font-size:15px">
+ Energetic front-end developer with 3+ years of experience, Still gaining experience and developing by building projects💻,I Interested in UI/UX design👨🏻‍💻 and problem-solving✨| Math and Information Student (SMI)👨🏻‍🎓.
+</h2>
 
 ## My skills:
 <ul type="Square">
@@ -19,7 +24,6 @@ Energetic front-end developer with 3+ years of experience, Still gaining experie
   <li>💙 VS Code.</li>
 </ul>
 
-<img src="https://user-images.githubusercontent.com/94912743/235650260-d7b9bbe6-72f1-4f21-bd24-d04ab3d03f30.gif" width="200px" align="right">
 
 ![Dahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahmancode&show_icons=true&theme=tokyonight)  
 
