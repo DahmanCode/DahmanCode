@@ -9,7 +9,7 @@
 
 # <img src = "https://github.com/elon-fask/Elon-Fask/blob/main/img/about_me.gif" width = 40px> **About me**
 <h2 align="center" style="font-size:15px">
- Energetic front-end developer with 3+ years of experience, Still gaining experience and developing by building projects💻,I Interested in UI/UX design👨🏻‍💻 and problem-solving✨| Math and Information Student (SMI)👨🏻‍🎓.
+ Energetic front-end developer with 3+ years of experience, Still gaining experience and developing by building projects💻,I Interested in UI/UX design👨🏻‍💻 and problem-solving✨| Math and informatics Student (SMI)👨🏻‍🎓.
 </h2>
 
 ## My skills:
